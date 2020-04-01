@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter name</string>
+    <string name="list_names_button">View names</string>
+    <string name="exit_button">EXIT</string>
+</resources>
